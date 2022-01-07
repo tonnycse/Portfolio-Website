@@ -1,0 +1,135 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 45px;
+  border-left: 3px solid salmon;
+  padding-left: 10px;
+  margin-top: 110px;
+}
+p{
+  font-size: 18px;
+  text-align: justify;
+}
+.orange-color{
+  color: orange;
+}
+.top{
+  display: flex;
+  padding: 0 100px;
+  margin-bottom: 100px;
+}
+.half-width{
+  width: 50%;
+}
+.half-width img{
+  width: 100%;
+}
+.right-side{
+  margin-left: 100px;
+}
+.top-text{
+  margin-bottom: 50px;
+}
+.top-last-line{
+  margin-top: 40px;
+}
+.click-link{
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  background-color: salmon;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin-top: 25px;
+}
+.my-mission{
+  padding: 0 100px;
+}
+h2{
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.my-mission-title{
+  text-align: center;
+
+}
+.title{
+  font-size: 24px;
+  font-weight: 700;
+}
+.mission{
+  background-color: hsla(160, 100%, 75%, 0.5);
+}
+.vission{
+  background-color: rgba(221, 160, 221, 0.5);
+}
+.goals{
+  background-color: rgba(217, 235, 114, 0.5);
+}
+.mission-vission-goals{
+  display: flex;
+}
+.mission-vission-goals img{
+  width: 30%;
+}
+.box{
+  width: 33.33%;
+  padding: 20px;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+.develop-without-limit{
+  display: flex;
+  padding: 0 100px;
+  margin: 100px 0;
+}
+.text-side{
+  padding-left: 50px;
+}
+.img-side{
+  padding-right: 50px;
+}
+.text{
+  margin-bottom: 40px;
+}
+.global-community{
+  display: flex;
+  padding: 0 100px;
+  margin: 100px 0;
+}
+.community-text{
+  padding-right: 50px;
+}
+.community-img{
+  padding-left: 50px;
+}
+.corona-app-go-corona{
+  padding-bottom: 100px;
+}
+.corona-app{
+  text-align: center;
+}
+.go-corona{
+  display: flex;
+  padding: 0 100px;
+}
+.go-corona-app{
+  width: 25%;
+  padding: 20px 20px;
+  margin: 10px;
+  background-color: rgba(250, 128, 114, 0.5);
+  border-radius: 5px;
+}
+.salmon-color{
+  color: salmon;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 75px 0;
+}
